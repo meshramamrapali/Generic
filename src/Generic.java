@@ -12,7 +12,7 @@ public class Generic {
     }
         public static void main(String[] args)
         {
-          double a = 2.2, b = 4.4, c = 8.8;
-            System.out.println("the maximum number is :" +maximum(2.2,4.4,8.8));
+          String a = "Apple", b = "Peach", c = "Banana";
+            System.out.println("the maximum number is :" +maximum( a ,b ,c));
         }
 }
