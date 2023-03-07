@@ -10,9 +10,9 @@ public class Generic {
 
         return max;
     }
-
-    public static void main(String[] args) {
-        System.out.println("the maximum number is :" + maximum(2, 4, 8));
-
-    }
+        public static void main(String[] args)
+        {
+          double a = 2.2, b = 4.4, c = 8.8;
+            System.out.println("the maximum number is :" +maximum(2.2,4.4,8.8));
+        }
 }
