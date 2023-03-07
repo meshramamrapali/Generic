@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb999439-29b5-49d3-9e82-059f76de53d7" name="Changes" comment="ADDED : Welcome Message">
+    <list default="true" id="bb999439-29b5-49d3-9e82-059f76de53d7" name="Changes" comment="ADDED : Max Method To Take More Than Three Parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic.java" afterDir="false" />
     </list>
@@ -48,6 +48,7 @@
       <list>
         <item itemvalue="Application.Generic" />
         <item itemvalue="Application.Generic" />
+        <item itemvalue="Application.Generic" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADDED : Welcome Message" />
     <MESSAGE value="ADDED : 3 Float Find The Maximum Value" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED : 3 Float Find The Maximum Value" />
+    <MESSAGE value="ADDED : Max Method To Take More Than Three Parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED : Max Method To Take More Than Three Parameters" />
   </component>
 </project>
